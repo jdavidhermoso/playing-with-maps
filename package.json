@@ -1,0 +1,7 @@
+{
+  "name": "playing-with-maps",
+  "version": "1.0.0",
+  "description": "Playing with Google Maps and Places APIs",
+  "main": "index.js",
+  "license": "MIT"
+}
