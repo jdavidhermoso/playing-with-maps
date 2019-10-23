@@ -73,5 +73,6 @@ module.exports = {
             filename: "bundle.css"
         })
 
-    ]
+    ],
+    watch: true
 };
